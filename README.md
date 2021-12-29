@@ -1,3 +1,3 @@
-C/C++/Bash
-VSCode/NeoVim
-CMake
+C/C++
+Codium/NVim
+Xmake
