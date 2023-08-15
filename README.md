@@ -1,3 +1,1 @@
-C/C++
-Codium/NVim
-Xmake
+idk
